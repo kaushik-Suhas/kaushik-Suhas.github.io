@@ -968,6 +968,14 @@ table.d {
   }
 }
 
+div.refer{
+  background-color: lightgrey;
+  width: 500px;
+  border: 1px solid black;
+  padding: 50px;
+  margin: 20px;
+}
+
 /*--------------------------------------------------------------
 # Contact
 --------------------------------------------------------------*/
@@ -1003,11 +1011,25 @@ table.d {
   margin-bottom: 0;
   font-size: 14px;
   color: #728394;
+  width: 500px;
 }
 
-.contact .info .email, .contact .info .phone {
-  margin-top: 40px;
+
+.contact .info .phone {
+  margin-top: 20px;
 }
+
+/*
+.contact .info .address, .contact .info .phone {
+   margin-left: 100px;
+}
+*/
+
+.contact .info .email {
+   margin-left: 800px;
+   margin-top: -50px;
+}
+
 
 .contact .info .email:hover i, .contact .info .address:hover i, .contact .info .phone:hover i {
   background: #0563bb;
