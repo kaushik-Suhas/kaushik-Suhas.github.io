@@ -431,6 +431,10 @@ section {
   color: #728394;
 }
 
+.about p{
+  font-style: italic;
+}
+
 .about .content ul {
   list-style: none;
   padding: 0;
@@ -515,6 +519,11 @@ section {
   color: #45505b;
 }
 
+.skills p{
+  font-style: italic;
+  font-size: large;
+}
+
 .skills .progress .skill .val {
   float: right;
   font-style: normal;
@@ -549,6 +558,10 @@ table.d {
   margin-top: 20px;
   margin-bottom: 20px;
   color: #45505b;
+}
+
+.resume p{
+  font-style: italic;
 }
 
 .resume .resume-item {
@@ -768,6 +781,10 @@ table.d {
   box-shadow: 0px 5px 90px 0px rgba(110, 123, 131, 0.05);
 }
 
+.services p{
+  font-style: italic;
+}
+
 .services .icon-box .icon {
   margin: 0 auto;
   width: 100px;
@@ -888,6 +905,96 @@ table.d {
 
 .services .iconbox-teal:hover .icon path {
   fill: #11dbcf;
+}
+
+div.sixsigma{
+  background-color: lightgrey;
+  width: 500px;
+  height: 300px;
+  border: 1px solid black;
+  padding: 50px;
+  margin: 20px;
+}
+
+div.Quality{
+  background-color: lightgrey;
+  width: 500px;
+  height: 300px;
+  border: 1px solid black;
+  padding: 50px;
+  margin: 20px;
+  margin-left: 550px;
+  margin-top: -320px;
+}
+
+div.logistics{
+  background-color: lightgrey;
+  width: 500px;
+  height: 300px;
+  border: 1px solid black;
+  padding: 50px;
+  margin: 20px;
+}
+
+div.lean{
+  background-color: lightgrey;
+  width: 500px;
+  height: 300px;
+  border: 1px solid black;
+  padding: 50px;
+  margin: 20px;
+  margin-left: 550px;
+  margin-top: -320px;
+}
+
+div.supply{
+  background-color: lightgrey;
+  width: 500px;
+  height: 300px;
+  border: 1px solid black;
+  padding: 50px;
+  margin: 20px;
+  margin-left: 275px;
+}
+
+div.lei1{
+  background-color: #f0f8ff;
+  width: 500px;
+  height: 500px;
+  border: 1px solid black;
+  padding: 50px;
+  margin: 20px;
+}
+
+div.lei2{
+  background-color: whitesmoke;
+  width: 500px;
+  height: 500px;
+  border: 1px solid black;
+  padding: 50px;
+  margin: 20px;
+  margin-left: 550px;
+  margin-top: -520px;
+}
+
+div.lei3{
+  background-color: whitesmoke;
+  width: 500px;
+  height: 500px;
+  border: 1px solid black;
+  padding: 50px;
+  margin: 20px;
+}
+
+div.lei4{
+  background-color: #b0e0e6;
+  width: 500px;
+  height: 500px;
+  border: 1px solid black;
+  padding: 50px;
+  margin: 20px;
+  margin-left: 550px;
+  margin-top: -520px;
 }
 
 /*--------------------------------------------------------------
