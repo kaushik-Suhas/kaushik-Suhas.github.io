@@ -775,11 +775,10 @@ table.d {
 }
 
 div.project1{
-  width: 800px;
+  width: 1200px;
   height: 300px;
   padding: 50px;
   margin: 20px;
-  margin-left: -100px;
 }
 
 .portfolio .project1 h3, .portfolio .project1 p{
@@ -787,12 +786,10 @@ div.project1{
 }
 
 div.project2{
-  width: 800px;
+  width: 1200px;
   height: 300px;
   padding: 50px;
   margin: 20px;
-  margin-left: 650px;
-  margin-top: -325px;
 }
 
 .portfolio .project2 h3, .portfolio .project2 p{
@@ -800,12 +797,11 @@ div.project2{
 }
 
 div.project3{
-  width: 800px;
+  width: 1200px;
   height: 300px;
   padding: 50px;
   margin: 20px;
-  margin-top: 70px;
-  margin-left: 200px;
+  margin-top: -150px;
 }
 
 .portfolio .project3 h3, .portfolio .project3 p{
