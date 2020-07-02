@@ -1024,7 +1024,7 @@ div.supply{
 }
 
 div.lei1{
-  background-color: #f0fff0;
+  background-color: #d3d3d3;
   width: 300px;
   height: 400px;
   border: 1px solid black;
@@ -1033,7 +1033,7 @@ div.lei1{
 }
 
 div.lei2{
-  background-color: #f5fffa;
+  background-color: #d3d3d3;
   width: 300px;
   height: 600px;
   border: 1px solid black;
@@ -1044,7 +1044,7 @@ div.lei2{
 }
 
 div.lei3{
-  background-color:#f0ffff;
+  background-color:whitesmoke;
   width: 300px;
   height: 300px;
   border: 1px solid black;
@@ -1055,7 +1055,7 @@ div.lei3{
 }
 
 div.lei4{
-  background-color: #f0f8ff;
+  background-color: #d3d3d3;
   width: 300px;
   height: 500px;
   border: 1px solid black;
@@ -1065,7 +1065,7 @@ div.lei4{
 }
 
 div.lei5{
-  background-color: #f8f8ff;
+  background-color: #708090;
   width: 300px;
   height: 300px;
   border: 1px solid black;
@@ -1076,7 +1076,7 @@ div.lei5{
 }
 
 div.lei6{
-  background-color: #f5f5f5;
+  background-color: #708090;
   width: 300px;
   height: 385px;
   border: 1px solid black;
