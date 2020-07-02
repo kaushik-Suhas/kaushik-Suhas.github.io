@@ -908,93 +908,171 @@ table.d {
 }
 
 .services .sixsigma{
-  background-color: lightgrey;
   width: 500px;
   height: 300px;
-  border: 1px solid black;
   padding: 50px;
   margin: 20px;
+}
+
+.services .sixsigma h3, .services .sixsigma p{
+    text-align: center;
 }
 
 div.Quality{
-  background-color: lightgrey;
+  
   width: 500px;
   height: 300px;
-  border: 1px solid black;
+  
   padding: 50px;
   margin: 20px;
   margin-left: 550px;
   margin-top: -320px;
+}
+
+.services .Quality h3, .services .Quality p{
+  text-align: center;
 }
 
 div.logistics{
-  background-color: lightgrey;
+  
   width: 500px;
   height: 300px;
-  border: 1px solid black;
+
   padding: 50px;
   margin: 20px;
 }
 
+.services .logistics h3, .services .logistics p{
+  text-align: center;
+}
+
 div.lean{
-  background-color: lightgrey;
+ 
   width: 500px;
   height: 300px;
-  border: 1px solid black;
+  
   padding: 50px;
   margin: 20px;
   margin-left: 550px;
   margin-top: -320px;
 }
 
+.services .lean h3, .services .lean p{
+  text-align: center;
+}
+
 div.supply{
-  background-color: lightgrey;
+  
   width: 500px;
   height: 300px;
-  border: 1px solid black;
+
   padding: 50px;
   margin: 20px;
   margin-left: 275px;
 }
 
+.services .supply h3, .services .supply p{
+  text-align: center;
+}
+
 div.lei1{
-  background-color: #f0f8ff;
-  width: 500px;
-  height: 500px;
+  background-color: #f0fff0;
+  width: 300px;
+  height: 400px;
   border: 1px solid black;
   padding: 50px;
   margin: 20px;
 }
 
 div.lei2{
-  background-color: whitesmoke;
-  width: 500px;
-  height: 500px;
+  background-color: #f5fffa;
+  width: 300px;
+  height: 600px;
   border: 1px solid black;
   padding: 50px;
   margin: 20px;
-  margin-left: 550px;
-  margin-top: -520px;
+  margin-left: 350px;
+  margin-top: -420px;
 }
 
 div.lei3{
-  background-color: whitesmoke;
-  width: 500px;
-  height: 500px;
+  background-color:#f0ffff;
+  width: 300px;
+  height: 300px;
   border: 1px solid black;
   padding: 50px;
   margin: 20px;
+  margin-left: 675px;
+  margin-top: -620px;
 }
 
 div.lei4{
-  background-color: #b0e0e6;
-  width: 500px;
+  background-color: #f0f8ff;
+  width: 300px;
   height: 500px;
   border: 1px solid black;
   padding: 50px;
   margin: 20px;
-  margin-left: 550px;
-  margin-top: -520px;
+  margin-top: 125px;
+}
+
+div.lei5{
+  background-color: #f8f8ff;
+  width: 300px;
+  height: 300px;
+  border: 1px solid black;
+  padding: 50px;
+  margin: 20px;
+  margin-top: -325px;
+  margin-left: 350px;
+}
+
+div.lei6{
+  background-color: #f5f5f5;
+  width: 300px;
+  height: 385px;
+  border: 1px solid black;
+  padding: 50px;
+  margin: 20px;
+  margin-top: -625px;
+  margin-left: 675px;
+}
+
+div.lei7{
+  background-color: whitesmoke;
+  width: 300px;
+  height: 200px;
+  border: 1px solid black;
+  padding: 50px;
+  margin: 20px;
+  margin-left: 675px;
+}
+
+div.lei1-list{
+    font-style: italic;
+    margin-top: 10px;
+}
+
+div.lei2-list{
+  font-style: italic;
+}
+
+div.lei3-list{
+  font-style: italic;
+  margin-left: -20px;
+  margin-top: 10px;
+  margin-right: -10px;
+}
+
+div.lei4-list{
+  font-style: italic;
+  margin-top: 10px;
+}
+
+div.lei7-list{
+  font-style: italic;
+  margin-top: -10px;
+  margin-left: -20px;
 }
 
 /*--------------------------------------------------------------
