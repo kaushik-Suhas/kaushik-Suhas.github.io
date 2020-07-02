@@ -621,6 +621,10 @@ table.d {
   margin-bottom: 30px;
 }
 
+.portfolio p{
+  font-style: italic;
+}
+
 .portfolio #portfolio-flters {
   padding: 0;
   margin: 0 auto 25px auto;
@@ -768,6 +772,53 @@ table.d {
 .portfolio .portfolio-wrap:hover .portfolio-info::after {
   bottom: 15px;
   right: 15px;
+}
+
+div.project1{
+  width: 800px;
+  height: 300px;
+  padding: 50px;
+  margin: 20px;
+  margin-left: -100px;
+}
+
+.portfolio .project1 h3, .portfolio .project1 p{
+  text-align: center;
+}
+
+div.project2{
+  width: 800px;
+  height: 300px;
+  padding: 50px;
+  margin: 20px;
+  margin-left: 650px;
+  margin-top: -325px;
+}
+
+.portfolio .project2 h3, .portfolio .project2 p{
+  text-align: center;
+}
+
+div.project3{
+  width: 800px;
+  height: 300px;
+  padding: 50px;
+  margin: 20px;
+  margin-top: 70px;
+  margin-left: 200px;
+}
+
+.portfolio .project3 h3, .portfolio .project3 p{
+  text-align: center;
+}
+
+.portfolio .row .certi{
+  margin-top: 100px;
+}
+
+.portfolio .certification{
+  margin-top: 150px;
+  margin-left: -150px;
 }
 
 /*--------------------------------------------------------------
