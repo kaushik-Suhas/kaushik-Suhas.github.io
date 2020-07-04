@@ -818,6 +818,18 @@ div.project3{
   margin-left: -150px;
 }
 
+.portfolio .project1:hover, .portfolio .project1:focus, .portfolio .project1:active {
+  box-shadow: 0 10px 10px 10px rgba(0, 0, 0, 0.5);
+  -webkit-transform: scale(1.1);
+  transform: scale(1.1);
+}
+
+.portfolio .project2:hover, .portfolio .project2:focus, .portfolio .project2:active {
+  box-shadow: 0 10px 10px 10px rgba(0, 0, 0, 0.5);
+  -webkit-transform: scale(1.1);
+  transform: scale(1.1);
+}
+
 /*--------------------------------------------------------------
 # Services
 --------------------------------------------------------------*/
