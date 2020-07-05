@@ -776,7 +776,7 @@ table.d {
 
 div.project1{
   width: 1200px;
-  height: 300px;
+  height: 350px;
   padding: 50px;
   margin: 20px;
 }
@@ -787,9 +787,10 @@ div.project1{
 
 div.project2{
   width: 1200px;
-  height: 300px;
+  height: 180px;
   padding: 50px;
   margin: 20px;
+  margin-top: -40px;
 }
 
 .portfolio .project2 h3, .portfolio .project2 p{
@@ -800,9 +801,7 @@ div.project3{
   width: 1200px;
   height: 300px;
   padding: 50px;
-  margin: 20px;
-  margin-top: -150px;
-  
+  margin: 20px;  
 }
 
 .portfolio .project3 h3, .portfolio .project3 p{
@@ -825,6 +824,12 @@ div.project3{
 }
 
 .portfolio .project2:hover, .portfolio .project2:focus, .portfolio .project2:active {
+  box-shadow: 0 10px 10px 10px rgba(0, 0, 0, 0.5);
+  -webkit-transform: scale(1.1);
+  transform: scale(1.1);
+}
+
+.portfolio .project3:hover, .portfolio .project3:focus, .portfolio .project3:active {
   box-shadow: 0 10px 10px 10px rgba(0, 0, 0, 0.5);
   -webkit-transform: scale(1.1);
   transform: scale(1.1);
@@ -968,70 +973,94 @@ div.project3{
 }
 
 .services .sixsigma{
-  width: 500px;
+  width: 600px;
   height: 300px;
   padding: 50px;
   margin: 20px;
+  margin-left: -50px;
 }
 
-.services .sixsigma h3, .services .sixsigma p{
+.services .sixsigma h3{
+  text-align: center;
+}
+
+ .services .sixsigma p{
     text-align: center;
 }
 
 div.Quality{
   
-  width: 500px;
+  width: 600px;
   height: 300px;
   
   padding: 50px;
   margin: 20px;
   margin-left: 550px;
-  margin-top: -320px;
+  margin-top: -315px;
 }
 
-.services .Quality h3, .services .Quality p{
+.services .Quality h3{
   text-align: center;
 }
 
-div.logistics{
-  
-  width: 500px;
-  height: 300px;
-
-  padding: 50px;
-  margin: 20px;
-}
-
-.services .logistics h3, .services .logistics p{
-  text-align: center;
-}
-
-div.lean{
- 
-  width: 500px;
-  height: 300px;
-  
-  padding: 50px;
-  margin: 20px;
-  margin-left: 550px;
-  margin-top: -320px;
-}
-
-.services .lean h3, .services .lean p{
+.services .Quality p{
   text-align: center;
 }
 
 div.supply{
   
-  width: 500px;
+  width: 600px;
   height: 300px;
 
   padding: 50px;
   margin: 20px;
-  margin-left: 275px;
+  margin-top: 50px;
+  margin-left: -50px;
 }
 
-.services .supply h3, .services .supply p{
+.services .logistics h3{
+  text-align: center;
+}
+
+.services .logistics p{
+  text-align: center;
+}
+
+div.lean{
+ 
+  width: 600px;
+  height: 300px;
+  
+  padding: 50px;
+  margin: 20px;
+  margin-left: 550px;
+  margin-top: -330px;
+}
+
+.services .lean h3{
+  text-align: center;
+}
+
+ .services .lean p{
+  text-align: center;
+}
+
+div.logistics{
+  
+  width: 600px;
+  height: 300px;
+
+  padding: 50px;
+  margin: 20px;
+  margin-left: 250px;
+  margin-top: -50px;
+}
+
+.services .supply h3{
+  text-align: center;
+}
+
+.services .supply p{
   text-align: center;
 }
 
