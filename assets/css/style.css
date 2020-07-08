@@ -809,11 +809,13 @@ div.project3{
 }
 
 .portfolio .row .certi{
-  margin-top: 100px;
+  margin-top: 150px;
+  margin-left: -505px;
 }
 
+
 .portfolio .certification{
-  margin-top: 150px;
+  margin-top: 200px;
   margin-left: -150px;
 }
 
@@ -833,6 +835,42 @@ div.project3{
   box-shadow: 0 10px 10px 10px rgba(0, 0, 0, 0.5);
   -webkit-transform: scale(1.1);
   transform: scale(1.1);
+}
+
+div.procount{
+  margin-top: 40px;
+}
+
+div.ncount{
+  background-color: black;
+  width: 40px;
+  height: 40px;
+  -webkit-border-radius: 5px;
+  color: white;
+  text-align: center;
+  font-style: initial;
+  font-family: Arial Bold;
+  font-weight: bolder;
+  font-size: x-large;
+  margin: 20px;
+  margin-left: 400px;
+  margin-top: -50px;
+}
+
+div.ncount1{
+  background-color: black;
+  width: 40px;
+  height: 40px;
+  -webkit-border-radius: 5px;
+  color: white;
+  text-align: center;
+  font-style: initial;
+  font-family: Arial Bold;
+  font-weight: bolder;
+  font-size: x-large;
+  margin: 20px;
+  margin-left: 445px;
+  margin-top: -60px;
 }
 
 /*--------------------------------------------------------------
