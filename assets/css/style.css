@@ -637,29 +637,9 @@ section {
 
 .img-fluid { margin-left: 800px; }
 
-
-@media (max-width: 992px) {
-.about .mob-heading h3{
+.about .mob-heading{
   display: none;
 }
-
-.about .mob-heading img{
-  display: none;
-    
-}
-}
-
-@media (max-width: 1200px) {
-  .about .mob-heading h3{
-    display: none;
-  }
-  
-  .about .mob-heading img{
-    display: none;
-      
-  }
-  }
-
 
 /*--------------------------------------------------------------
 # Facts
