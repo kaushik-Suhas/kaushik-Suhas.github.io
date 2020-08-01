@@ -136,7 +136,7 @@ h1, h2, h3, h4, h5, h6 {
     padding-left: 30px;
     font-size: small;
     width: 100%;
-    margin-top: 100px;
+    margin-top: 10px;
   }
 
 
@@ -637,9 +637,6 @@ section {
 
 .img-fluid { margin-left: 800px; }
 
-.about .mob-heading{
-  display: none;
-}
 
 /*--------------------------------------------------------------
 # Facts
