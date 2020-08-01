@@ -110,6 +110,25 @@ h1, h2, h3, h4, h5, h6 {
   [data-aos-delay] {
     transition-delay: 0 !important;
   }
+
+  .about .mob-heading h3{
+    font-size: large;
+    font-weight: bolder;
+    text-align: center;
+    color: #2f4f4f;
+  }
+
+  .about .mob-heading img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+      border: 1px solid #ddd;
+      border-radius: 4px;
+      padding: 5px;
+      width: 250px;
+      
+  }
+
   .about .content{
     margin-right: -600px;
     margin-left: -50px;
@@ -117,6 +136,12 @@ h1, h2, h3, h4, h5, h6 {
     padding-left: 30px;
     font-size: small;
     width: 100%;
+    margin-top: 100px;
+  }
+
+
+  .about .content h3{
+    display: none;
   }
  
 .portfolio p{
@@ -164,9 +189,25 @@ h1, h2, h3, h4, h5, h6 {
   display: none;
 }
 
+.services .academic h2{
+  text-align: center;
+}
+
 .services .sixsigma{
+  width: 1000px;
   margin-left: 100px;
   font-size: small;
+  padding-left: 50px;
+}
+
+.services .sixsigma h3{
+  margin-left: 30px;
+  padding-left: 50px;
+}
+
+.services .sixsigma p{
+  margin-left: 20px;
+  margin-right: -50px;
 }
 
 .services .supply{
@@ -182,18 +223,28 @@ h1, h2, h3, h4, h5, h6 {
   font-size: small;
 }
 
-.services .quality{
-  width: 800px;
-  margin-top: 500px;
+.services .Quality{
+  width: 1000px;
+  margin-left: -50px;
+  margin-top: -90px;
   font-size: small;
-  margin-left: 200px;
+}
+
+.services .Quality h3{
+  margin-left: 30px;
+  padding-left: 50px;
+}
+
+.services .Quality p{
+  margin-left: 20px;
+  margin-right: -50px;
 }
 
 .services .lean{
   width: 800px;
   margin-left: -30px;
   margin-right: -30px;
-  margin-top: -100px;
+  margin-top: -70px;
   font-size: small;
 }
 
@@ -585,6 +636,29 @@ section {
 }
 
 .img-fluid { margin-left: 800px; }
+
+
+@media (max-width: 992px) {
+.about .mob-heading h3{
+  display: none;
+}
+
+.about .mob-heading img{
+  display: none;
+    
+}
+}
+
+@media (max-width: 1200px) {
+  .about .mob-heading h3{
+    display: none;
+  }
+  
+  .about .mob-heading img{
+    display: none;
+      
+  }
+  }
 
 
 /*--------------------------------------------------------------
