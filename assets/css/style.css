@@ -256,6 +256,38 @@ div.leisure-row{
   display: none;
 }
 
+.services .oth-ints h2{
+  text-align: center;
+}
+
+.services .owl-nav, .services .owl-dots {
+  margin-top: 5px;
+  text-align: center;
+}
+
+.services .owl-dot {
+  display: inline-block;
+  margin: 0 5px;
+  width: 12px;
+  height: 12px;
+  border-radius: 50%;
+  background-color: #ddd !important;
+}
+
+.services .owl-dot.active {
+  background-color: #0563bb !important;
+}
+
+.services .leisure-item{
+  background-color: #d3d3d3;
+  width: 350px;
+  height: 450px;
+  border: 1px solid white;
+  padding: 20px;
+  margin: 20px;
+}
+
+
 .contact .info .email i{
   margin-left: -800px;
 }
