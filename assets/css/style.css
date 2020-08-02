@@ -195,6 +195,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .services .sixsigma{
   width: 1000px;
+  height: fit-content;
   margin-left: 100px;
   font-size: small;
   padding-left: 50px;
@@ -206,18 +207,21 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .services .sixsigma p{
+  height: fit-content;
   margin-left: 20px;
   margin-right: -50px;
 }
 
 .services .supply{
   width: 800px;
+  height: fit-content;
   margin-left: -30px;
   margin-right: -30px;
   font-size: small;
 }
 .services .logistics{
   width: 800px;
+  height: fit-content;
   margin-left: -30px;
   margin-right: -30px;
   font-size: small;
@@ -225,8 +229,9 @@ h1, h2, h3, h4, h5, h6 {
 
 .services .Quality{
   width: 1000px;
+  height: fit-content;
   margin-left: -50px;
-  margin-top: -90px;
+  margin-top: -50px;
   font-size: small;
 }
 
@@ -242,6 +247,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .services .lean{
   width: 800px;
+  height: fit-content;
   margin-left: -30px;
   margin-right: -30px;
   margin-top: -70px;
