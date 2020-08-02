@@ -129,6 +129,21 @@ h1, h2, h3, h4, h5, h6 {
       
   }
 
+  .about .mob-heading p{
+    font-size: small;
+    width: fit-content;
+    height: fit-content;
+    margin-top: 10px;
+    text-align: justify;
+  }
+
+  .about .mob-heading ul{
+    font-size: small;
+    width: fit-content;
+    list-style-type:none;
+  }
+
+  /*
   .about .content{
     margin-right: -600px;
     margin-left: -50px;
@@ -139,6 +154,11 @@ h1, h2, h3, h4, h5, h6 {
     margin-top: 10px;
   }
 
+  */
+
+  .about .content{
+    display: none;
+  }
 
   .about .content h3{
     display: none;
