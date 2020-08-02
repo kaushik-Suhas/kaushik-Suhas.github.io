@@ -280,7 +280,7 @@ div.leisure-row{
 
 .services .leisure-item{
   background-color: #d3d3d3;
-  width: 350px;
+  width: fit-content;
   height: 450px;
   border: 1px solid white;
   border-radius: 10px;
