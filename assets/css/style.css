@@ -142,25 +142,12 @@ h1, h2, h3, h4, h5, h6 {
     width: fit-content;
     list-style-type:none;
   }
-
-  /*
-  .about .content{
-    margin-right: -600px;
-    margin-left: -50px;
-    padding-right: 30px;
-    padding-left: 30px;
-    font-size: small;
-    width: 100%;
-    margin-top: 10px;
-  }
-
-  */
-
-  .about .content{
+   
+  .about .row{
     display: none;
   }
 
-  .about .content h3{
+  .about .content{
     display: none;
   }
  
