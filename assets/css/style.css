@@ -425,6 +425,27 @@ div.leisure-row{
   margin-left: -800px;
 }
 
+.skills .d {
+  table-layout: auto;
+  height: 110%;
+  font-size: smaller;  
+  width: 100%;
+}
+
+
+/*
+.skills .d  th, .skills .d  td {
+  border: 1px solid black;
+  text-align: center;
+}
+*/
+
+ .skills .d  td {
+ padding-bottom: 20px;
+ padding-right: 10px;
+}
+
+
 }
 
 
