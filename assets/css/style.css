@@ -306,11 +306,9 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .services .sixsigma{
-  width: 1000px;
-  height: fit-content;
-  margin-left: 100px;
+  width: 100%;
+  height: 1000px;
   font-size: small;
-  padding-left: 50px;
 }
 
 .services .sixsigma h3{
@@ -319,7 +317,6 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .services .sixsigma p{
-  height: fit-content;
   margin-left: 20px;
   margin-right: -50px;
 }
@@ -1332,7 +1329,7 @@ div.ncount1{
 
 .services .sixsigma{
   width: 600px;
-  height: 350px;
+  height: fit-content;
   padding: 50px;
   margin: 20px;
   margin-left: -50px;
@@ -1349,12 +1346,12 @@ div.ncount1{
 div.Quality{
   
   width: 600px;
-  height: 340px;
+  height: fit-content;
   
   padding: 50px;
   margin: 20px;
   margin-left: 550px;
-  margin-top: -360px;
+  margin-top: -410px;
 }
 
 .services .Quality h3{
@@ -1368,7 +1365,7 @@ div.Quality{
 div.supply{
   
   width: 600px;
-  height: 250px;
+  height: fit-content;
 
   padding: 50px;
   margin: 20px;
@@ -1387,12 +1384,12 @@ div.supply{
 div.lean{
  
   width: 600px;
-  height: 250px;
+  height: fit-content;
   
   padding: 50px;
   margin: 20px;
   margin-left: 550px;
-  margin-top: -270px;
+  margin-top: -320px;
 }
 
 .services .lean h3{
@@ -1406,7 +1403,7 @@ div.lean{
 div.logistics{
   
   width: 600px;
-  height: 230px;
+  height: fit-content;
 
   padding: 50px;
   margin: 20px;
