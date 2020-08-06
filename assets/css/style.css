@@ -282,6 +282,12 @@ h1, h2, h3, h4, h5, h6 {
   display: none;
 }
 
+.portfolio .promobcount{
+  width: fit-content;
+  text-align: center;
+  font-size: small;
+}
+
 .portfolio .certi h2{
   width: fit-content;
   margin-left: 600px;
