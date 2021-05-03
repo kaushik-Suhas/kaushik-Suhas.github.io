@@ -252,6 +252,12 @@ h1, h2, h3, h4, h5, h6 {
   font-size: smaller;
   width: 100%;
 }
+  
+.portfolio .project4{
+  height: fit-content;
+  font-size: smaller;
+  width: 100%;
+}
 
 .portfolio .project1:hover, .portfolio .project1:focus, .portfolio .project1:active {
   background-color: lightgrey;
@@ -277,6 +283,13 @@ h1, h2, h3, h4, h5, h6 {
   height: fit-content;
 }
 
+.portfolio .project4:hover, .portfolio .project4:focus, .portfolio .project4:active {
+  background-color: lightgrey;
+  box-shadow: initial;
+  -webkit-transform: none;
+  transform: none;
+  height: fit-content;
+}
 
 .portfolio .procount{
   display: none;
@@ -1131,6 +1144,17 @@ div.project3{
   text-align: center;
 }
 
+div.project4{
+  width: 1200px;
+  height: fit-content;
+  margin: 20px;  
+  margin-top: -10px;
+}
+
+.portfolio .project4 h3, .portfolio .project4 p{
+  text-align: center;
+}
+
 .portfolio .row .certi{
   margin-top: 150px;
   margin-left: -505px;
@@ -1155,6 +1179,12 @@ div.project3{
 }
 
 .portfolio .project3:hover, .portfolio .project3:focus, .portfolio .project3:active {
+  box-shadow: 0 10px 10px 10px rgba(0, 0, 0, 0.5);
+  -webkit-transform: scale(1.1);
+  transform: scale(1.1);
+}
+
+.portfolio .project4:hover, .portfolio .project4:focus, .portfolio .project4:active {
   box-shadow: 0 10px 10px 10px rgba(0, 0, 0, 0.5);
   -webkit-transform: scale(1.1);
   transform: scale(1.1);
